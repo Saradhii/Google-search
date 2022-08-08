@@ -1,5 +1,6 @@
 # Google-search
 Google search with similar search ui (searching country names only) <br>
+Time taken : 2hours <br>
 Deployed link : https://google-search-silk.vercel.app/ <br>
 
 Demo : Search country names in input search box <br>
