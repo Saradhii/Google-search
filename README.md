@@ -1,2 +1,2 @@
 # Google-search
-Google search with similar search ui (searching country names only)
+Google search with similar search ui (Searching country names only)
